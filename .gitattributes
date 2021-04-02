@@ -1,2 +1,4 @@
 *.inc linguist-language=csharp
 *.inc linguist-detectable=false
+*.asm linguist-language=csharp
+*.java linguist-language=csharp
