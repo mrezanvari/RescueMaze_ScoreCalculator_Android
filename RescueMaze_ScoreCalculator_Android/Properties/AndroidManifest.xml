@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="RescueMaze_ScoreCalculator_Android.RescueMaze_ScoreCalculator_Android" android:versionCode="3" android:versionName="3.4" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="16" />
+	<uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<application android:label="RB Score Calculator" android:theme="@android:style/Theme.Material" android:icon="@drawable/Icon"></application>
+</manifest>
