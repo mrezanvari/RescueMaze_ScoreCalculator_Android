@@ -1,5 +1,1 @@
-*.css linguist-detectable=false
-*.js linguist-detectable=false
-*.java linguist-detectable=false
 *.pawn linguist-detectable=false
-*.c-sharp linguist-detectable=true
