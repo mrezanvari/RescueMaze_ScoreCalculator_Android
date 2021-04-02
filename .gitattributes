@@ -1,1 +1,2 @@
 *.inc linguist-language=csharp
+*.inc linguist-detectable=false
